@@ -1,3 +1,5 @@
+![SDN Reports Banner](banner.png)
+
 # SDN Reports
 
 Academic reports for the Software-Defined Networking (SDN) final project.
